@@ -1,0 +1,3 @@
+Esta ruta sirve para recibir y guardar información enviada por los usuarios. En una aplicación 
+comunitaria, podría utilizarse para reportar problemas, enviar alertas o compartir información 
+importante con la comunidad.

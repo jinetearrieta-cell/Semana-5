@@ -1,0 +1,8 @@
+Las api pueden ayudar a las comunidades a compartir información, reportes y alertas de una
+ forma más organizada y rápida. Gracias a ellas, diferentes aplicaciones, páginas web o 
+ sistemas pueden conectarse y enviar información al mismo lugar. Por ejemplo, si una persona reporta
+  una fuga de agua, un problema de seguridad o una emergencia, la api puede recibir ese reporte,
+   guardarlo y enviarlo a las personas responsables. Además, permite que todos tengan acceso a 
+   información actualizada y que las alertas lleguen de manera más rápida a quienes las necesitan. 
+   De esta forma, las comunidades pueden comunicarse mejor, responder más rápido a los problemas y 
+   trabajar juntas de manera más eficiente.
